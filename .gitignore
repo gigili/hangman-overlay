@@ -1,0 +1,6 @@
+.cache/
+.idea/
+dist/
+Title-linux-x64/
+node_modules/
+.env

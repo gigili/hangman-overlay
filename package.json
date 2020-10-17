@@ -1,0 +1,21 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@senstate/client": "^0.3.0",
+    "@senstate/client-connection": "^0.3.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "nativefier": "^10.1.0",
+    "rxjs": "^6.6.3",
+    "tmi.js": "^1.5.0"
+  }
+}
